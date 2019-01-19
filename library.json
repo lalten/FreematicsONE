@@ -12,11 +12,7 @@
     "type": "git",
     "url": "https://github.com/stanleyhuangyc/Freematics.git"
   },
-  "export": {
-    "include": [
-      "firmware_v4/libraries/FreematicsONE"
-    ]
-  },
+  "include": "firmware_v4/libraries/FreematicsONE",
   "frameworks": "arduino",
   "platforms": "*"
 }
